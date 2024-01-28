@@ -1,5 +1,10 @@
 [
   {
+    "icon": "Cloud",
+    "name": "网盘",
+    "link": "https://pan.lss53.tk/"
+  },
+  {
     "icon": "Desktop",
     "name": "TVBox接口",
     "link": "https://www.lige.fit/ua"
