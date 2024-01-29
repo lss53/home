@@ -5,13 +5,13 @@
     "link": "https://pan.lss53.tk/"
   },
   {
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://hot.lss53.tk/"
+  },
+    {
     "icon": "Desktop",
     "name": "TVBox接口",
     "link": "https://www.lige.fit/ua"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
   }
 ]
