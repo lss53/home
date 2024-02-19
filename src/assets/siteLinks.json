@@ -1,17 +1,17 @@
 [
   {
+    "icon": "blog",
+    "name": "博客",
+    "link": "https://blog.211777.xyz/"
+  }, 
+  {
     "icon": "Cloud",
-    "name": "网盘硬盘",
-    "link": "https://pan.lss53.tk/"
+    "name": "网盘",
+    "link": "https://pan.211777.xyz/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.lss53.tk/"
-  },
-    {
-    "icon": "Desktop",
-    "name": "TVBox接口",
-    "link": "https://www.lige.fit/ua"
+    "link": "https://hot.211777.xyz/"
   }
 ]
